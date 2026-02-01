@@ -1,5 +1,7 @@
-/// A "Hello, world!" program.
-/// More comments.
+//! A "Hello, world!" program.
+//! More comments.
+
+/// The entrypoint of the program.
 fn main() {
     print("Hello, world!");
 }
